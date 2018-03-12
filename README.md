@@ -13,6 +13,6 @@ folder).
 
 2. **Enjoy**
 
-Use **demo.m** as an example to call USMO
+Use **demo.m** as an example to call USMO routine
 
 
