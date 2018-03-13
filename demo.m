@@ -61,7 +61,7 @@ for i = 1:NUM_DATASETS
         result = performance(Xu_labels,pred_lab);
         fprintf('Dataset: %s\n', DATASETS{i,1});       
         fprintf('Lambda: %.4f\n', LAMBDA(j));
-        fprintf('F-score: %.2f\n\n', result(6)*100);
+        fprintf('F-score: %.2f\n\n', result*100);
 
     end
 end
