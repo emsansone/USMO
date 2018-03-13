@@ -19,6 +19,6 @@ Use **demo1.m** and **demo2.m** as examples to call USMO routine.
 |---|---|---|
 | Linear kernel | Polynomial kernel | Gaussian kernel |
 |---|---|---|
-| <img src='img/linear.eps'> | <img src='img/polynomial.eps'> | <img src='img/gaussian.eps'> |
+| <img src='img/linear.png'> | <img src='img/polynomial.png'> | <img src='img/gaussian.png'> |
 
 
