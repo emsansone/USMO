@@ -13,6 +13,12 @@ folder).
 
 2. **Enjoy**
 
-Use **demo.m** as an example to call USMO routine
+Use **demo1.m** and **demo2.m** as examples to call USMO routine.
+
+|Visualization of USMO results on MNIST (demo1)|
+|---|---|---|
+| Linear kernel | Polynomial kernel | Gaussian kernel |
+|---|---|---|
+| <img src='img/linear.eps'> | <img src='img/polynomial.eps'> | <img src='img/gaussian.eps'> |
 
 
