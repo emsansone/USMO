@@ -15,7 +15,10 @@ folder).
 
 Use **demo1.m** and **demo2.m** as examples to call USMO routine.
 
-### DEMO 1
+### Demo 1
+
+Classification of MNIST dataset (after applying PCA to visualize data)
+
 | Linear kernel | Polynomial kernel | Gaussian kernel |
 |---|---|---|
 | <img src='img/linear.png'> | <img src='img/polynomial.png'> | <img src='img/gaussian.png'> |
