@@ -20,4 +20,7 @@ Classification of MNIST dataset (after applying PCA to visualize data)
 |---|---|---|
 | <img src='img/linear.png'> | <img src='img/polynomial.png'> | <img src='img/gaussian.png'> |
 
+**Legend**. Red and black points are positive and negative samples, respectively.
+Triangles are used to identify labeled samples.
+
 
