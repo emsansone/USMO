@@ -1,4 +1,4 @@
-# USMO (Unlabeled data in Sequential Minimal Optimization) Algorithm
+# USMO (Unlabeled data in Sequential Minimal Optimization)
 
 Matlab code for paper [Efficient Training for Positive Unlabeled Learning](https://arxiv.org/abs/1608.06807)
 
