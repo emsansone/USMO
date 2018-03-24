@@ -23,4 +23,9 @@ Classification of MNIST dataset (after applying PCA to visualize data)
 **Legend**. Red and black points are positive and negative samples, respectively.
 Triangles are used to identify labeled samples.
 
+### Licensing
+
+The code is provided "as-is" under the terms of General Public License v2. 
+See ```LICENSE.txt``` for full details.
+
 
