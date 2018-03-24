@@ -25,7 +25,7 @@ Triangles are used to identify labeled samples.
 
 ### Licensing
 
-The code is provided "as-is" under the terms of General Public License v2. 
-See ```LICENSE.txt``` for full details.
+The code is provided "as-is" under the terms of General Public License. 
+See ```LICENSE``` for full details.
 
 
